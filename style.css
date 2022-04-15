@@ -6,7 +6,7 @@
 .hero{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(#00545d9f, #0007299a), url(images/background.jpg);
+    background-image: linear-gradient(#00545d7d, #00072940), url(images/background.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
