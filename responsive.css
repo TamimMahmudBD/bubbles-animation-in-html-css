@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px) {
+    .sign-up{
+        display: none;
+    }
+    .content p{
+        font-size: 14px;
+    }
+    .content h1{
+        font-size: 35px;
+        line-height: 35px;
+    }
+}
